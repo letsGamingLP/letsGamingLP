@@ -5,7 +5,7 @@ Developer, IT-Systemtechniker
 -----------------------------
 
 * 🌍  I'm based in Austria
-* 🖥️  See my portfolio at [Website](http://ilyas49.cf)
+* 🖥️  See my portfolio at [Website](/)
 * ✉️  You can contact me at [kontakt@ilyas49.cf](mailto:kontakt@ilyas49.cf)
 * 🚀  I'm currently working on [Service Website](http://gtl-service.com)
 * 🧠  I'm learning PHP and C++
